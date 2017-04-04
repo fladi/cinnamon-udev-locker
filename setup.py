@@ -3,7 +3,7 @@ import setuptools
 
 setuptools.setup(
     name='cinnamon-udev-locker',
-    version='0.0.0',
+    version='0.1.0',
     url='https://github.com/fladi/cinnamon-udev-locker',
     author='Michael Fladischer',
     author_email='michael@fladi.at',
